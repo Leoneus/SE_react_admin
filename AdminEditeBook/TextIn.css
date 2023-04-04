@@ -1,0 +1,75 @@
+.car_AdminEditbook {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 50px;
+}
+
+.color_AdminEditbook {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 20px;
+}
+
+.kilo_AdminEditbook {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 20px;
+}
+
+.time_AdminEditbook {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 20px;
+}
+
+.bill_AdminEditbook {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 20px;
+}
+
+.center_AdminEditbook {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 20px;
+}
+
+
+
+.text_AdminEditbook {
+    margin-bottom: 5px;
+    color: white;
+}
+
+.ButtonRow_AdminEditbook {
+    display: flex;
+    margin-left: 750px;
+    margin-right: 750px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    flex-direction: 'row';
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    
+}
+
+.Input_AdminEditbook {
+    background-color: #EEEEEE;
+}
+
+.Button_AdminEditbook {
+    background-color: #FDD444;
+}

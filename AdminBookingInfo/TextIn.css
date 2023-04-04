@@ -1,0 +1,76 @@
+.car_AdminBookinfo {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 50px;
+}
+
+.color_AdminBookinfo {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 20px;
+}
+
+.kilo_AdminBookinfo {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 20px;
+}
+
+.time_AdminBookinfo {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 20px;
+}
+
+.bill_AdminBookinfo {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 20px;
+}
+
+.center_AdminBookinfo {
+    display: flex;
+    flex-direction:column;
+    margin-left: 400px;
+    margin-right: 900px;
+    margin-top: 20px;
+}
+
+
+
+.text_AdminBookinfo {
+    margin-bottom: 5px;
+    color: white;
+}
+
+.ButtonRow_AdminBookinfo {
+    display: flex;
+    margin-left: 750px;
+    margin-right: 750px;
+    margin-top: 50px;
+    
+    flex-direction: 'row';
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    padding-bottom: 100px;
+    
+}
+
+.Input_AdminBookinfo {
+    background-color: #EEEEEE;
+}
+
+.Button_AdminBookinfo {
+    background-color: #FDD444;
+}

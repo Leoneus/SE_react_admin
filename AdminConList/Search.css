@@ -1,0 +1,69 @@
+.Layer1_search_AdminConlist {
+    
+    background-color: white;
+}
+
+.head1_search_AdminConlist {
+    display: flex;
+    color: black;
+    align-items: 'center';
+    justify-content: 'center';
+    padding-top: 25px;
+    padding-bottom: 45px;
+    padding-left: 800px;
+    
+}
+
+.head2_search_AdminConlist {
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+
+.head3_search_AdminConlist {
+    display: flex;
+    margin-top: 50px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+
+.search_search_AdminConlist {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.Input_search_AdminConlist {
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+.box_but_AdminConlist {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 25px;
+    
+}
+
+.Button_search {
+    display: flex;
+    
+    background-color:#FDD444;
+}
+
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+tr,td,th{
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+body{
+    background-color: red;
+  }
+thead{
+    background-color: rgb(100, 103, 105);
+  }

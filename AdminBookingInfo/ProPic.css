@@ -1,0 +1,41 @@
+.profile_img_AdminBookinfo {
+    align-items: 'center';
+    justify-items: center;
+    flex-direction: 'row';
+}
+
+.div_AdminBookinfo {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+    border-radius: 10px;
+}
+
+.head_AdminBookinfo {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-top: 50px;
+    flex-direction: column;
+    
+    color: white;
+}
+
+.name_AdminBookinfo {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+    color: white;
+}
+
+.Button_edit_AdminBookInfo {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: row;
+    margin-top: 50px;
+}

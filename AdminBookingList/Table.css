@@ -1,0 +1,20 @@
+.table_AdminBookingList {
+    background-color: white;
+}
+
+.table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+.tr,td,th{
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+.body{
+    background-color: red;
+  }
+.thead{
+    background-color: rgb(100, 103, 105);
+  }

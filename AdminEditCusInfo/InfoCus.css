@@ -1,0 +1,161 @@
+/* .InfoCus_Page {
+    /* margin-top: 50px; */
+
+
+.div_Infopic_AdminEditCusinfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.layer1_InfoCus_AdminEditCusinfo {
+    /* background-color: aqua; */
+    flex-direction: 'row';
+    margin-bottom: 50px;
+}
+
+.text1_InfoCus {
+    margin-top: 200px;
+    margin-left: 400px;
+    color: white
+}
+
+.text2_InfoCus {
+    margin-top: 200px;
+    margin-left: 400px;
+    color: white
+}
+
+.text3_InfoCus {
+    margin-top: 200px;
+    margin-left: 400px;
+    color: white
+}
+
+.layer2_InfoCus_AdminEditCusinfo {
+    margin-top: 40px;
+    margin-left: 400px;
+    flex-direction: 'column';
+}
+
+.layer2_InfoCus_row1_AdminEditCusinfo {
+    flex-direction: 'row';
+}
+
+.layer2_InfoCus_row2_AdminEditCusinfo {
+    flex-direction: 'row';
+    margin-top: 50px;
+}
+
+.layer2_InfoCus_row3_AdminEditCusinfo {
+    flex-direction: 'row';
+    margin-top: 50px;
+}
+
+.layer2_InfoCus_row4_AdminEditCusinfo {
+    flex-direction: 'row';
+    margin-top: 50px;
+}
+
+.layer2_InfoCus_row5_AdminEditCusinfo {
+    flex-direction: 'row';
+    margin-top: 50px;
+}
+
+.layer2_InfoCus_row6_AdminEditCusinfo {
+    flex-direction: 'row';
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.layer3_InfoCus_AdminEditCusinfo {
+    margin-top: 40px;
+    margin-left: 400px;
+    flex-direction: 'column';
+    padding-bottom: 100px;
+}
+
+.layer3_InfoCus_row1_AdminEditCusinfo{
+    flex-direction: 'row';
+    margin-top: 50px;
+}
+
+.layer3_InfoCus_row2_AdminEditCusinfo {
+    flex-direction: 'row';
+    margin-top: 50px;
+}
+
+.layer3_InfoCus_row3_AdminEditCusinfo {
+    flex-direction: 'row';
+    margin-top: 50px;
+    padding-bottom: 35px;
+}
+
+.layer4_InfoCus_row1_AdminEditCusinfo {
+    flex-direction: 'row';
+    margin-top: 50px;
+    padding-bottom: 35px;
+}
+
+.Input1_InfoCus_AdminEditCusinfo {
+    /* margin-left: 200px; */
+    max-width: 500px;
+    margin-right: 80px;
+}
+
+.Input2_InfoCus_AdminEditCusinfo {
+    /* margin-left: 200px; */
+    margin-right: 80px;
+}
+
+.Input3_InfoCus_AdminEditCusinfo {
+    /* margin-left: 200px; */
+    margin-right: 80px;
+}
+
+.Input4_InfoCus_AdminEditCusinfo {
+    /* margin-left: 200px; */
+    margin-right: 80px;
+}
+
+.Input5_InfoCus_AdminEditCusinfo {
+    /* margin-left: 200px; */
+    margin-right: 80px;
+}
+
+.Button_edit_AdminEditCusinfo {
+    align-items: 'center';
+    justify-content: 'center';
+    padding-bottom: 100px;
+    /* margin-left: -330px; */
+    
+}
+
+.Button1_edit_AdminEditCusinfo {
+    margin-right: 100px;
+}
+
+.Drop1_InfoCus_AdminEditCusinfo {
+    margin-right: 80px;
+}
+
+.my-dropdown-button button{
+    width: 190px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.my-dropdown-button button:hover{
+    background-color: transparent;
+    border-color: white;
+}
+.my-dropdown-button button:focus-visible,
+.my-dropdown-button button:focus,
+.my-dropdown-button button:active{
+    background-color: transparent;
+    border-color: white;
+}

@@ -1,0 +1,83 @@
+.Layer1 {
+    
+    background-color: white;
+}
+
+.head1_search_AdminBooklist {
+    display: flex;
+    color: black;
+    align-items: 'center';
+    justify-content: 'center';
+    padding-top: 25px;
+    padding-bottom: 45px;
+    padding-left: 800px;
+    
+}
+
+.head2_search_AdminBooklist {
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+
+.head3_search_AdminBooklist {
+    display: flex;
+    margin-top: 50px;
+    padding-left: 25px;
+    padding-bottom: 40px;
+}
+
+.search_search_AdminBooklist {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.Input_search_AdminBooklist {
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+.box_but_search_AdminBooklist {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 25px;
+    
+}
+
+.Button_search_AdminBooklist {
+    display: flex;
+    
+    background-color:#FDD444;
+}
+
+/* .table_AdminBookingList {
+    margin-left: 25px;
+    width: 100%;
+    border-collapse: collapse;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+} */
+
+.Body_Search {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+tr,td,th{
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+body{
+    background-color: red;
+  }
+thead{
+    background-color: rgb(100, 103, 105);
+  }

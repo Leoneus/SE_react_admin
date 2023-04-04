@@ -1,0 +1,35 @@
+.profile_img_propic_AdminEditbook {
+    display: flex;
+    align-items: 'center';
+    justify-items: center;
+    flex-direction: column;
+    margin-left: 738px;
+}
+
+.div_propic_AdminEditbook {
+    /* display: flex; */
+    /* align-items: center;
+    justify-items: center;
+    flex-direction: column; */
+    padding-top: 50px;
+    border-radius: 10px;
+}
+
+.head_Propic_AdminEditbook {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-top: 50px;
+    flex-direction: column;
+    
+    color: white;
+}
+
+.name_propic_AdminEditbook {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+    color: white;
+}

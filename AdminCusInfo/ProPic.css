@@ -1,0 +1,54 @@
+.profile_img_propic_AdminCusinfo {
+    
+    align-items: 'center';
+    justify-items: center;
+    flex-direction: 'row';
+}
+
+.div_propic_AdminCusinfo {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+    border-radius: 10px;
+}
+
+.head_propic_AdminCusinfo {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-top: 50px;
+    flex-direction: column;
+    color: white;
+}
+
+.name_propic_AdminCusinfo {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+    color: white;
+}
+
+.Button_edit_AdminCusinfo {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.Button1_edit_AdminCusinfo {
+    margin-left: 700px;
+    margin-right: 50px;
+    /* margin-top: 100px; */
+    background-color: #FDD444;
+}
+
+.Button2_edit_AdminCusinfo {
+    
+    background-color: #FDD444;
+}
+
